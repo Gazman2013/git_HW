@@ -1,4 +1,6 @@
 # git_HW
+Первая попытка. https://github.com/Gazman2013/Git
+
 111. git config --global user.email "rodionov.gazman2013@gmail.com"
 112. git init
 1. Создать отдельный репозиторий на github.
